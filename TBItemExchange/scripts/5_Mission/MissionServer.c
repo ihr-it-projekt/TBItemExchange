@@ -1,5 +1,4 @@
-modded class MissionServer
-{
+modded class MissionServer {
     ref TBIEConfigListener tbieConfigListener;
 
     override void OnInit() {
